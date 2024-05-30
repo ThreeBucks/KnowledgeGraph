@@ -4,8 +4,7 @@
 - [官方文档](https://pytorch.org/docs/stable/index.html)
 ## Modules
 ### dynamo
-`dynamo`是pytorch编译器的前端, 主要是通过cpython进行图捕获
-![Alt text](dynamo.png)
+[`dynamo`]()是pytorch编译器的前端, 主要是通过cpython进行图捕获
 
 可以通过[depyf](https://github.com/thuml/depyf)工具dump出反编译的python代码, 调试非常好用!
 

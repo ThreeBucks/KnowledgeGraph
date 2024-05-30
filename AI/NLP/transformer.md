@@ -173,3 +173,7 @@ Softmax 根据输出矩阵的每一行预测下一个单词：
 - Transformer 中 Multi-Head Attention 中有多个 Self-Attention，可以捕获单词之间多种维度上的相关系数 attention score。
 ## 实现
 见[简单易理解的实现](./transformer_pytorch.ipynb)
+
+## 优化
+### 降低复杂度
+https://zhuanlan.zhihu.com/p/634406691
